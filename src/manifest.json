@@ -1,31 +1,31 @@
 {
     "Components": {
         "container": {
-            "path": "sample-portfolio/templates/container/"
+            "path": "templates/container/"
         },
         "header": {
-            "path": "sample-portfolio/templates/header/"
+            "path": "templates/header/"
         },
         "objective": {
-            "path": "sample-portfolio/templates/objective/"
+            "path": "templates/objective/"
         },
         "work_expierence": {
-            "path": "sample-portfolio/templates/work_expierence/"
+            "path": "templates/work_expierence/"
         },
         "projects": {
-            "path": "sample-portfolio/templates/projects/"
+            "path": "templates/projects/"
         },
         "skills": {
-            "path": "sample-portfolio/templates/skills/"
+            "path": "templates/skills/"
         },
         "experience": {
-            "path": "sample-portfolio/templates/experience/"
+            "path": "templates/experience/"
         },
         "strengths": {
-            "path": "sample-portfolio/templates/strengths/"
+            "path": "templates/strengths/"
         },
         "education": {
-            "path": "sample-portfolio/templates/education/"
+            "path": "templates/education/"
         }
     }
 
