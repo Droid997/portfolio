@@ -7,25 +7,25 @@
             "path": "templates/header/"
         },
         "objective": {
-            "path": "templates/objective/"
+            "path": "src/templates/objective/"
         },
         "work_expierence": {
-            "path": "templates/work_expierence/"
+            "path": "src/templates/work_expierence/"
         },
         "projects": {
-            "path": "templates/projects/"
+            "path": "src/templates/projects/"
         },
         "skills": {
-            "path": "templates/skills/"
+            "path": "src/templates/skills/"
         },
         "experience": {
-            "path": "templates/experience/"
+            "path": "src/templates/experience/"
         },
         "strengths": {
-            "path": "templates/strengths/"
+            "path": "src/templates/strengths/"
         },
         "education": {
-            "path": "templates/education/"
+            "path": "src/templates/education/"
         }
     }
 
