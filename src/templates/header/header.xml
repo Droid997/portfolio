@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-4">
             <div class="d-flex ">
-                <img class="mx-auto" src="/images/profile.png" width="auto" height="300px" />
+                <img class="mx-auto" src="src/images/profile.png" width="auto" height="300px" />
             </div>
             <p class="text-center mt-2 profileName">Dishanth H M</p>
         </div>
@@ -47,7 +47,7 @@
                             </div>
                         </div>
                         <div class="col text-right">
-                            <img src="/images/github_qr.png" />
+                            <img src="src/images/github_qr.png" />
                         </div>
                     </div>
 
