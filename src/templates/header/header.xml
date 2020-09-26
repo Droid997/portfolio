@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-4">
             <div class="d-flex ">
-                <img class="mx-auto" src="src/images/profile.png" width="auto" height="300px" />
+                <img class="mx-auto" src="src/images/profile.jpg" width="auto" height="300px" />
             </div>
             <p class="text-center mt-2 profileName">Dishanth H M</p>
         </div>
