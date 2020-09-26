@@ -1,10 +1,10 @@
 {
     "Components": {
         "container": {
-            "path": "templates/container/"
+            "path": "src/templates/container/"
         },
         "header": {
-            "path": "templates/header/"
+            "path": "src/templates/header/"
         },
         "objective": {
             "path": "src/templates/objective/"
