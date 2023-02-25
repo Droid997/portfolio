@@ -15,39 +15,49 @@
             <div class="card mt-2 cardWidth">
                 <div class="card-body ">
                     <h5 class="card-title font-weight-bold">Maventic / Software Developer</h5>
-                    <h6 class="card-subtitle mb-2 font-weight-bold templatePrimaryColor">Jul 2018 - PRESENT, Bangalore
-                        (2.5+ Years) </h6>
+                    <h6 class="card-subtitle mb-2 font-weight-bold templatePrimaryColor">Jul 2018 - Dec 2020, Bangalore</h6>
                     <ul>
-                        <li>Worked in a product based company.</li>
-                        <li>Created a Company Standalone Editor for developing WEB Apps, which can be used to create a multi functional END to END web applications.</li>
-                        <li>Created an Automation tool to CRUD in the database.</li>
-                        <li>Created a SAP-PM Module (MOAST) mobile app.</li>
-                        <li>Worked on openUI5 to create front end mobile applications.</li>
-                        <li>Created applications for Android and IOS using cordova.</li>
-                        <li>Created custom controls in openUI5.</li>
-                        <li>Wrote optimized programs to handle large sets of data. </li>
-                        <li>Wrote programs to handle client specific data for multiple devices. </li>
-                        <li>Deployed java servers in aws. </li>
+                        <li>Product based company.</li>
+                        <li>Developed a standalone editor for building web applications with versatile functionality, capable of delivering end-to-end solutions.</li>
+                        <li>Developed an Automation tool to CRUD in the database</li>
+                        <li>Developed a SAP-PM Module (MOAST) mobile app.</li>
+                        <li>Worked on openUI5 to create front end mobile applications</li>
+                        <li>Developed applications for Android and IOS using Cordova</li>
+                        <li>Developed custom controls in openUI5.</li>
+                        <li>Wrote programs to handle client specific data for multiple devices.</li>
+                        <li>Deployed java servers in aws</li>
+                        <li>Developed and Maintained a Large Project which generated substantial revenue for the company.</li>
                     </ul>
+                    <h6>Tech Stack : HTML, CSS ,Advance JavaScript, Typescript, OpenUI5, Cordova,Java, AWS EC2, Oracle Database, Postgres, Database Management, FCM</h6>
                 </div>
             </div>
 
 
              <div class="card mt-2 cardWidth">
                 <div class="card-body ">
-                    <h5 class="card-title font-weight-bold">Freelancer / Fullstack Developer</h5>
-                    <h6 class="card-subtitle mb-2 font-weight-bold templatePrimaryColor">Jul 2019 - PRESENT,  Bangalore (1.2+ Years )</h6>
+                    <h5 class="card-title font-weight-bold">Atronas Aps, Denmark, Full Stack Engineer / Architect</h5>
+                    <h6 class="card-subtitle mb-2 font-weight-bold templatePrimaryColor">2020 - Present</h6>
                     <ul>
-                        <li>Worked with a sweden client to integrate laravel, go lang and python languages.</li>
-                        <li>Built a framework architecture to handle large data seamlessly.</li>
-                        <li>Created an automated job to send email to all the clients.</li>
-                        <li>Built python modules to connect SAP to check systems are running , if not sends a mail to respective clients regarding the same.</li>
-                        <li>Worked on openUI5 to create front end mobile applications.</li>
-                        <li>Built python module which uses multiprocessing to connect thousands of SAP systems  at the same time and retrieve data. and writes it to respective client databases.</li>
-                        <li>Created graph to simulate the data stored using above activities.</li>
-                        <li>Wrote optimized programs to handle large sets of data. </li>
-                        <li>Worked in spring boot, OData.  </li>
+                        <li>Built a cloud based enterprise level sass monitoring platform from scratch for SAP systems.</li>
+                        <li>Worked and Managed 9-10 servers.</li>
+                        <li>Architected the Entire Tech Stack.</li>
+                        <li>Highly Scalable Architecture.</li>
+                        <li>Worked on Multiple Technologies.</li>
+                        <li>Solved Some Highly Complex Problems.</li>
+                        <li>Architecture Built to Handle 10K concurrent Calls.</li>
+                        <li>Response times are reduced to a few milliseconds regardless of Databases sizes (Usual Data Size contains 10GB+).</li>
+                        <li>Frontend was built in React on top of Laravel.</li>
+                        <li>Runs on Kubernetes cluster.</li>
+                        <li>Servers are built as microservices so that it can be scaled.</li>
+                        <li>Designed Alerts and Notification Architecture.</li>
+                        <li>Designed to Monitor SAP System using a background job and notifies users on unexpected behaviors.</li>
                     </ul>
+                    <h6>
+                    Tech Stack : HTML, CSS, SASS, React, PHP, JavaScript, Python, Celery, Redis,
+                        MySQL, Postgres, Dkron, Scheduler, Flask, Laravel Mix, Laravel, Docker, K8s,
+                        RabbmitMQ, NodeJS, Puppeteer, Server Maintaince, Deployment, GitLab,
+                        MongoDB, Nginx, LB, Gunicorn.
+                    </h6>
                 </div>
             </div>
 
